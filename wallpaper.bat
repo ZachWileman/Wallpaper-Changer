@@ -1,4 +1,13 @@
-::This batch file was made and tested on Windows 10
+:: This batch file was made and tested on Windows 10
+
+:: This file was created to try and create a script that changed my wallpaper
+:: at certain times of the day with the use of Windows Task Scheduler.
+
+:: Unfortunately, this script doesn't seem to run in the Task Scheduler as it
+:: should and the lines near the bottom meant for updating the system
+:: background only work sometimes. The registry gets successly changed
+:: everytime I run the file, but the background doesn't always get updated;
+:: sometimes just turning to a black screen.
 
 @echo off
 
