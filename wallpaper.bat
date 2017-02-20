@@ -7,7 +7,8 @@
 :: should and the lines near the bottom meant for updating the system
 :: background only work sometimes. The registry gets successly changed
 :: everytime I run the file, but the background doesn't always get updated;
-:: sometimes just turning to a black screen.
+:: sometimes just turning to a black screen. I think this error occurs due to
+:: the Windows 10 Operating System and may work on Windows 7 and below.
 
 @echo off
 
